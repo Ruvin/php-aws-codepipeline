@@ -8,4 +8,4 @@ $date = Carbon::now();
 echo $date->toDayDateTimeString();
 
 
-echo ' new 2';
+echo ' totaly new line....!!';
